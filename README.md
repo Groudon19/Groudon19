@@ -1,4 +1,4 @@
-# Olá, eu sou o Groudon19! 👋
+# Olá, eu sou o Gustavo 👋
 
 ### 👨‍💻 Backend Developer & CS Student
 

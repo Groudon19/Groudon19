@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Backend Developer & CS Student
 
-Sou estudante de Ciência da Computação focado em entender como as coisas funcionam "por baixo do capô". Meu interesse vai além do código: busco construir sistemas escaláveis e entender o impacto da tecnologia no mundo real.
+Sou estudante de Ciência da Computação que gosta de entender como as coisas funcionam "por baixo do capô". Meu interesse vai além do código: busco construir sistemas escaláveis e entender o impacto da tecnologia no mundo real.
 
 ---
 

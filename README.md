@@ -26,4 +26,4 @@ Minha caixa de ferramentas para resolver problemas:
 Atualmente, estou focado em aprofundar conhecimentos em **Arquitetura de Software**, **Compiladores** e **Sistemas Operacionais**. Acredito que dominar os fundamentos é a chave para inovar no topo.
 
 ---
-![Top Langs](https://deploy-readme-stats.vercel.app/api/top-langs/?username=Groudon19&layout=compact&theme=dracula)
+![Top Langs](https://deploy-readme-stats.vercel.app/api/top-langs/?username=Groudon19&layout=compact&theme=dracula&hide=javascript,html)

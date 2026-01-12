@@ -2,8 +2,6 @@
 
 ### 👨‍💻 Backend Developer & CS Student
 
-> "Explorando a intersecção entre engenharia de software robusta e a mecânica de crescimento de negócios."
-
 Sou estudante de Ciência da Computação focado em entender como as coisas funcionam "por baixo do capô". Meu interesse vai além do código: busco construir sistemas escaláveis e entender o impacto da tecnologia no mundo real.
 
 ---
@@ -23,7 +21,7 @@ Minha caixa de ferramentas para resolver problemas:
 ---
 
 ### 🔭 O que estou construindo
-Atualmente, estou focado em aprofundar conhecimentos em **Arquitetura de Software**, **Compiladores** e **Sistemas Operacionais**. Acredito que dominar os fundamentos é a chave para inovar no topo.
+Atualmente, estou focado em aprofundar conhecimentos em **Arquitetura de Software**, **Compiladores** e **Sistemas Operacionais**.
 
 ---
 ![Top Langs](https://deploy-readme-stats.vercel.app/api/top-langs/?username=Groudon19&layout=compact&theme=dracula&hide=javascript,html&locale=pt-br)
